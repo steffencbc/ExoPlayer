@@ -132,3 +132,4 @@ implementation project(':exoplayer-library-ui')
 
 To develop ExoPlayer using Android Studio, simply open the ExoPlayer project in
 the root directory of the repository.
+
